@@ -1,0 +1,14 @@
+# Buildbotics Controller Schematics & PCB Layout
+
+Only an insane person would use Linux to view this stuff. gEDA is NOT buildable
+under MingW-64 and, frankly, using Debian in VirtualBox doesn't work well either.
+
+Get yourself a copy of DJ Delorie's Windows build of gEDA, it's very old but still
+works fine for the purposes we require. Sincew Firefox no longer works for FTP, and
+since Delorie's site seems to be broken anyhow, you can download it from:
+
+https://elektroniq.iqo.uni-hannover.de/doku.php?id=english:geda_for_ms-windows
+
+Rob Judd <judd@ob-wan.com> 12 May 2022
+
+
