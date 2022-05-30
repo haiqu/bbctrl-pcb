@@ -9,6 +9,8 @@ since Delorie's site seems to be broken anyhow, you can download it from:
 
 https://elektroniq.iqo.uni-hannover.de/doku.php?id=english:geda_for_ms-windows
 
-Rob Judd <judd@ob-wan.com> 12 May 2022
 
+Note that it appears the project files were created with Lepton-EDA. There is no packaged version of this for Windows. They do not work with KiCad.
+
+Rob Judd <judd@ob-wan.com> 30 May 2022
 
