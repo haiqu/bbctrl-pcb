@@ -1,6 +1,6 @@
 # Buildbotics Controller Schematics & PCB Layout
 
-Being derived from Debian Linuxx, Raspbian (aka Raspberry OS) can be used
+Being derived from Debian Linux, Raspbian (aka Raspberry OS) can be used
 to view and edit the files contained herein.
 
 sudo apt-get install science-electronics
